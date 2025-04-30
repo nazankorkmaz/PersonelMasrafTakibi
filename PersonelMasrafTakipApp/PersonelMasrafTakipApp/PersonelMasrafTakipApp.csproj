@@ -1,0 +1,50 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+
+     <PackageReference Include="EFCore.BulkExtensions" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="8.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+    
+    <PackageReference Include="MediatR" Version="12.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+
+    <PackageReference Include="FluentValidation.AspNetCore" Version="9.5.2" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="9.5.2" />  
+    <PackageReference Include="MediatR" Version="12.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+    <PackageReference Include="AutoMapper" Version="12.0.0" />
+
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.5" />
+
+    <PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="7.0.17" />
+
+  </ItemGroup>
+
+    <ItemGroup>
+    <Reference Include="MasrafTakip.Base">
+      <HintPath>..\MasrafTakip.Base\obj\Debug\net8.0\MasrafTakip.Base.dll</HintPath>
+    </Reference>
+
+    <Reference Include="MasrafTakip.Schema" />
+      <HintPath>..\MasrafTakip.Schema\obj\Debug\net8.0\MasrafTakip.Schema.dll</HintPath>
+    </Reference>
+
+    <ProjectReference Include="..\MasrafTakip.Schema\MasrafTakip.Schema.csproj" />
+
+  </ItemGroup>
+
+</Project>

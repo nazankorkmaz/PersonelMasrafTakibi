@@ -1,0 +1,12 @@
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\MasrafTakip.Base\bin\Debug\net8.0\MasrafTakip.Base.deps.json
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\MasrafTakip.Base\bin\Debug\net8.0\MasrafTakip.Base.dll
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\MasrafTakip.Base\bin\Debug\net8.0\MasrafTakip.Base.pdb
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\MasrafTakip.Base\obj\Debug\net8.0\MasrafTakip.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\MasrafTakip.Base\obj\Debug\net8.0\MasrafTakip.Base.AssemblyInfoInputs.cache
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\MasrafTakip.Base\obj\Debug\net8.0\MasrafTakip.Base.AssemblyInfo.cs
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\MasrafTakip.Base\obj\Debug\net8.0\MasrafTakip.Base.csproj.CoreCompileInputs.cache
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\MasrafTakip.Base\obj\Debug\net8.0\MasrafTakip.Base.sourcelink.json
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\MasrafTakip.Base\obj\Debug\net8.0\MasrafTakip.Base.dll
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\MasrafTakip.Base\obj\Debug\net8.0\refint\MasrafTakip.Base.dll
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\MasrafTakip.Base\obj\Debug\net8.0\MasrafTakip.Base.pdb
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\MasrafTakip.Base\obj\Debug\net8.0\ref\MasrafTakip.Base.dll
