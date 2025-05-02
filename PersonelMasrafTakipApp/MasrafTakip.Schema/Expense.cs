@@ -23,7 +23,7 @@ public class ExpenseResponse : BaseResponse
     
     //public UserResponse? User { get; set; }
     //public CategoryResponse? Category { get; set; }
-    public string UserId {get; set;}
+    public long UserId {get; set;}
     public string CategoryName {get; set;}
     public string Description { get; set; }
     public decimal Amount { get; set; }

@@ -11,7 +11,9 @@ public class MsSqlDbContext : DbContext
 
     }
 
-
+    public DbSet<User> User { get; set; }
+    public DbSet<Expense> Expense { get; set; }
+    public DbSet<Category> Categorie { get; set; }
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
 
