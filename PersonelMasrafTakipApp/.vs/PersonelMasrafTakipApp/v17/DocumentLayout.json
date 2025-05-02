@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\PersonelMasrafTakibi\\PersonelMasrafTakipApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D43488A1-936F-43E5-93D8-0CFC12309381}|MasrafTakip.Schema\\MasrafTakip.Schema.csproj|c:\\users\\korkm\\onedrive\\masa\u00FCst\u00FC\\personelmasraftakibi\\personelmasraftakipapp\\masraftakip.schema\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43488A1-936F-43E5-93D8-0CFC12309381}|MasrafTakip.Schema\\MasrafTakip.Schema.csproj|solutionrelative:masraftakip.schema\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4D6E7D06-C319-4697-BCF3-E2847529711E}|PersonelMasrafTakipApp\\PersonelMasrafTakipApp.csproj|c:\\users\\korkm\\onedrive\\masa\u00FCst\u00FC\\personelmasraftakibi\\personelmasraftakipapp\\personelmasraftakipapp\\personelmasraftakipapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4D6E7D06-C319-4697-BCF3-E2847529711E}|PersonelMasrafTakipApp\\PersonelMasrafTakipApp.csproj|solutionrelative:personelmasraftakipapp\\personelmasraftakipapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -21,13 +25,26 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 12,
+          "DockedHeight": 218,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PersonelMasrafTakipApp",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\PersonelMasrafTakibi\\PersonelMasrafTakipApp\\MasrafTakip.Schema\\User.cs",
+              "RelativeDocumentMoniker": "MasrafTakip.Schema\\User.cs",
+              "ToolTip": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\PersonelMasrafTakibi\\PersonelMasrafTakipApp\\MasrafTakip.Schema\\User.cs",
+              "RelativeToolTip": "MasrafTakip.Schema\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T22:19:58.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonelMasrafTakipApp.csproj",
               "DocumentMoniker": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\PersonelMasrafTakibi\\PersonelMasrafTakipApp\\PersonelMasrafTakipApp\\PersonelMasrafTakipApp.csproj",
               "RelativeDocumentMoniker": "PersonelMasrafTakipApp\\PersonelMasrafTakipApp.csproj",
               "ToolTip": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\PersonelMasrafTakibi\\PersonelMasrafTakipApp\\PersonelMasrafTakipApp\\PersonelMasrafTakipApp.csproj",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\PersonelMasrafTakibi\\PersonelMasrafTakipApp\\MasrafTakip.Schema\\Class1.cs",
               "RelativeDocumentMoniker": "MasrafTakip.Schema\\Class1.cs",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "MasrafTakip.Schema\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T22:21:58.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T22:21:58.291Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\PersonelMasrafTakibi\\PersonelMasrafTakipApp\\MasrafTakip.Base\\Class1.cs",
               "RelativeDocumentMoniker": "MasrafTakip.Base\\Class1.cs",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "MasrafTakip.Base\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T22:21:00.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T22:21:00.228Z"
             },
             {
               "$type": "Bookmark",

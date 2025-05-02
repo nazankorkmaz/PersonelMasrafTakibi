@@ -8,6 +8,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MasrafTakip.Base\MasrafTakip.Base.csproj" />
+
+
   </ItemGroup>
 
 </Project>

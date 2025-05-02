@@ -10,3 +10,7 @@ C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\M
 C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\MasrafTakip.Schema\obj\Debug\net8.0\refint\MasrafTakip.Schema.dll
 C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\MasrafTakip.Schema\obj\Debug\net8.0\MasrafTakip.Schema.pdb
 C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\MasrafTakip.Schema\obj\Debug\net8.0\ref\MasrafTakip.Schema.dll
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\MasrafTakip.Schema\obj\Debug\net8.0\MasrafTakip.Schema.csproj.AssemblyReference.cache
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\MasrafTakip.Schema\bin\Debug\net8.0\MasrafTakip.Base.dll
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\MasrafTakip.Schema\bin\Debug\net8.0\MasrafTakip.Base.pdb
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\MasrafTakip.Schema\obj\Debug\net8.0\MasrafTa.468627BB.Up2Date

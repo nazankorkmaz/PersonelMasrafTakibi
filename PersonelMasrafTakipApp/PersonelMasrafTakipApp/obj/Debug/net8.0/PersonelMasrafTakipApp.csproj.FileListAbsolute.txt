@@ -181,3 +181,15 @@ C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\P
 C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\PersonelMasrafTakipApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\PersonelMasrafTakipApp\bin\Debug\net8.0\MasrafTakip.Base.dll
 C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\PersonelMasrafTakipApp\bin\Debug\net8.0\MasrafTakip.Base.pdb
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\PersonelMasrafTakipApp\bin\Debug\net8.0\MasrafTakip.Schema.dll
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\PersonelMasrafTakipApp\bin\Debug\net8.0\MasrafTakip.Schema.pdb
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\PersonelMasrafTakipApp\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\PersonelMasrafTakipApp\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\PersonelMasrafTakipApp\bin\Debug\net8.0\LinqKit.dll
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\PersonelMasrafTakipApp\bin\Debug\net8.0\LinqKit.Core.dll
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\PersonelMasrafTakipApp\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\PersonelMasrafTakipApp\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\PersonelMasrafTakipApp\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\PersonelMasrafTakipApp\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\PersonelMasrafTakipApp\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\korkm\OneDrive\Masaüstü\PersonelMasrafTakibi\PersonelMasrafTakipApp\PersonelMasrafTakipApp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

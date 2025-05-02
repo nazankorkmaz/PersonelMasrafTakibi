@@ -32,18 +32,14 @@
 
     <PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="7.0.17" />
 
+    <PackageReference Include="LinqKit" Version="1.2.3" />
+
   </ItemGroup>
 
-    <ItemGroup>
-    <Reference Include="MasrafTakip.Base">
-      <HintPath>..\MasrafTakip.Base\obj\Debug\net8.0\MasrafTakip.Base.dll</HintPath>
-    </Reference>
-
-    <Reference Include="MasrafTakip.Schema" />
-      <HintPath>..\MasrafTakip.Schema\obj\Debug\net8.0\MasrafTakip.Schema.dll</HintPath>
-    </Reference>
-
+  <ItemGroup>
+  
     <ProjectReference Include="..\MasrafTakip.Schema\MasrafTakip.Schema.csproj" />
+    <ProjectReference Include="..\MasrafTakip.Base\MasrafTakip.Base.csproj" />
 
   </ItemGroup>
 

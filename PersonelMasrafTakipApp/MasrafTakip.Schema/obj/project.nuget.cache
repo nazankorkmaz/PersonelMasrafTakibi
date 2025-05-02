@@ -4,8 +4,8 @@
   "success": true,
   "projectFilePath": "C:\\Users\\korkm\\OneDrive\\Masaüstü\\PersonelMasrafTakibi\\PersonelMasrafTakipApp\\MasrafTakip.Schema\\MasrafTakip.Schema.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\korkm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.15\\microsoft.windowsdesktop.app.ref.8.0.15.nupkg.sha512",
     "C:\\Users\\korkm\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.15\\microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\korkm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.15\\microsoft.windowsdesktop.app.ref.8.0.15.nupkg.sha512",
     "C:\\Users\\korkm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.15\\microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512"
   ],
   "logs": []
